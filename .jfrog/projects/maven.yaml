@@ -1,0 +1,6 @@
+version: 1
+type: maven
+deployer:
+    serverId: arti2
+    snapshotRepo: yoavh-libs-snapshot
+    releaseRepo: yoavh-libs-release
