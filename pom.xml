@@ -7,11 +7,12 @@
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
-<!--     <modules>
+    <modules>
         <module>multi1</module>
         <module>multi2</module>
+        <module>multi3</module>
     </modules>
-<distributionManagement>
+<!-- <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
         <name>b2ffb2c953c1-snapshots</name>
