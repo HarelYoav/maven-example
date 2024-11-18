@@ -7,10 +7,10 @@
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
-<!--     <modules>
+    <modules>
         <module>multi1</module>
         <module>multi2</module>
-    </modules> -->
+    </modules>
 <!-- <distributionManagement>
 
     <snapshotRepository>
