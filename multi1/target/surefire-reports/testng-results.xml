@@ -6,7 +6,7 @@
     </groups>
     <test name="Surefire test">
       <class name="artifactory.test.AppTest">
-        <test-method signature="testApp()" started-at="2024-07-08T17:52:52Z" name="testApp" finished-at="2024-07-08T17:52:52Z" duration-ms="9" status="PASS">
+        <test-method signature="testApp()" started-at="2024-11-24T16:43:00Z" name="testApp" finished-at="2024-11-24T16:43:00Z" duration-ms="61" status="PASS">
         </test-method>
       </class>
     </test>
